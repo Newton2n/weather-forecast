@@ -4,7 +4,7 @@ A simple weather forecasting web application that displays the current weather, 
 Built using the **Open-Meteo API** for both geocoding and weather data, with a responsive UI and light/dark theme support.
 
 ## 🌐 Live Demo
-[**View Live App**](https://newton2n.github.io/Weather-forecast/)
+[**View Live App**](https://newton2n.github.io/weather-forecast/)
 
 ---
 
